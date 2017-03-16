@@ -1,0 +1,38 @@
+{
+  "name": "reactun",
+  "version": "1.0.0",
+  "description": "reactun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuihongjie/React-UN.git"
+  },
+  "keywords": [
+    "1qazxsW@"
+  ],
+  "author": "cuihongjie",
+  "license": "ISC
+  ",
+  "bugs": {
+    "url": "https://github.com/cuihongjie/React-UN/issues"
+  },
+  "homepage": "https://github.com/cuihongjie/React-UN#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.4.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
